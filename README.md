@@ -10,4 +10,4 @@ Odin Project: Webpack Template
 - `npm run deploy`: "git subtree push --prefix dist origin gh-pages"
 
 # ESLint
-[ESLint](https://eslint.org/docs/latest/use/getting-started)
+[ESLint getting started](https://eslint.org/docs/latest/use/getting-started)
