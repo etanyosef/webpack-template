@@ -17,10 +17,9 @@ export const renderHomepage = () => {
     content.append(welcomeContainer);
 
     openingHours.textContent = "Opening Hours";
-    openingPara.textContent = "We are open from Monday to Saturday 7am to 8pm."
+    openingPara.textContent = "We are open from Monday to Saturday 7am to 8pm.";
     openingHoursContainer.append(openingHours);
     openingHoursContainer.append(openingPara);
     openingHoursContainer.classList.add("opening-hours");
     content.append(openingHoursContainer);
-    
-}
+};
